@@ -1,4 +1,4 @@
-![](https://www.kisti.re.kr/resources/images/content/chagroup02.png)![](https://www.kisti.re.kr/resources/images/content/ci_logo_kr2.png)![](https://www.kisti.re.kr/resources/images/content/chagroup06.png)
+![](https://www.kisti.re.kr/resources/images/content/ci_logo_kr2.png)![](https://www.kisti.re.kr/resources/images/content/chagroup06.png)
 # Home
 안녕하세요.
 KISTI 데이터 분석본부의 글로벌 R&D 분석센터입니다.
